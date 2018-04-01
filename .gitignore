@@ -23,3 +23,9 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+
+### Wrapper ###
+.mvn/
+mvnw
+mvnw.cmd
